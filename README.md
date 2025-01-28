@@ -182,6 +182,10 @@ https://github.com/user-attachments/assets/ae8c3af2-54b0-465d-a093-e3a6bd30e4bc
       - create and name text file 
       - write testing and save file
 
+
+https://github.com/user-attachments/assets/21b2c89e-43df-4fc7-81ba-9eb7c681b150
+
+
 ## Deleting within Active Directory Users and Computers
 1. Go to **View**
    - Select **Advanced Features**
