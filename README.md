@@ -94,6 +94,10 @@ https://github.com/user-attachments/assets/44c69ff8-eb79-4a20-b34e-7d05bd600bcd
    - Hit **OK** at the shares properties window
    - Log off and back on
 
+
+https://github.com/user-attachments/assets/e028102a-a0d7-4d50-94c6-7c6f92fe4a28
+
+
 ## Setting Permissions for Subfolders
 1. Enter the **Share** folder
 2. Right-click the **IT** folder and select **Properties**
