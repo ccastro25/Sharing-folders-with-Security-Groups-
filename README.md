@@ -175,7 +175,7 @@ https://github.com/user-attachments/assets/ae8c3af2-54b0-465d-a093-e3a6bd30e4bc
 1. Log on to the Windows 10 VM
  - log in as tech user
  -  open file explore
- -  select pc icon
+ -  select this pc icon
  -  enter share drive
  -  enter IT folder
       - create folder
@@ -184,6 +184,17 @@ https://github.com/user-attachments/assets/ae8c3af2-54b0-465d-a093-e3a6bd30e4bc
 
 
 https://github.com/user-attachments/assets/21b2c89e-43df-4fc7-81ba-9eb7c681b150
+
+### Server 2022 VM
+1. Log on to Windows server 2022
+ -  open file explore
+ -  select this pc icon
+ -  enter share drive
+ -  enter IT folder
+   - the contents added by user should be  visible
+    
+
+https://github.com/user-attachments/assets/d0a24c63-2d01-4384-bd8a-fd339f39f120
 
 
 ## Deleting within Active Directory Users and Computers
