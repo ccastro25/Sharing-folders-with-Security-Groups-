@@ -171,7 +171,16 @@ https://github.com/user-attachments/assets/ae8c3af2-54b0-465d-a093-e3a6bd30e4bc
 
 
 ## Testing Shared Folders
-1. Log on to the Windows VM
+### windows 10 VM
+1. Log on to the Windows 10 VM
+ - log in as tech user
+ -  open file explore
+ -  select pc icon
+ -  enter share drive
+ -  enter IT folder
+      - create folder
+      - create and name text file 
+      - write testing and save file
 
 ## Deleting within Active Directory Users and Computers
 1. Go to **View**
