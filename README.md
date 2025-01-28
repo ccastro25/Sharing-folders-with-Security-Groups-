@@ -64,6 +64,10 @@ https://github.com/user-attachments/assets/fe645e9a-30f4-4f61-be6c-f18b003c53f9
    - **Sales**
    - **Marketing**
 
+
+https://github.com/user-attachments/assets/44c69ff8-eb79-4a20-b34e-7d05bd600bcd
+
+
 ## Share Properties
 1. Right-click the **Share** folder and select **Properties**
    - Select the **Security** tab
