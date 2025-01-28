@@ -55,6 +55,10 @@ https://github.com/user-attachments/assets/fe645e9a-30f4-4f61-be6c-f18b003c53f9
              - Click **OK**
              - Hit **Apply** and **OK** at the properties window
 
+
+https://github.com/user-attachments/assets/21b8b572-f5d1-4b27-b634-ed602c19942b
+
+
 ## Creating Folders
 1. Open **File Explorer**
 2. Enter the desired drive
