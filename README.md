@@ -19,6 +19,10 @@ This guide details the steps to create shared folders and assign permissions usi
      - Rename volume name to **Share** and leave everything else as default at **Format Partition**, then click **Next**
      - Lastly, click **Finish**
 
+
+https://github.com/user-attachments/assets/fe645e9a-30f4-4f61-be6c-f18b003c53f9
+
+
 ## Creating Security Groups
 1. Within **Server Manager**, select **Tools**
 2. Select **Active Directory Users and Computers**
