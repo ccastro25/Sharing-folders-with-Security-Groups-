@@ -197,17 +197,3 @@ https://github.com/user-attachments/assets/21b2c89e-43df-4fc7-81ba-9eb7c681b150
 https://github.com/user-attachments/assets/d0a24c63-2d01-4384-bd8a-fd339f39f120
 
 
-## Deleting folders within Active Directory Users and Computers
-1. Go to **View**
-   - Select **Advanced Features**
-     - Right-click the desired folder
-       - Select **Properties**
-       - Select the **Object** tab
-         - Uncheck **Protected object from accidental deletion**
-         - Click **Apply** and **OK**
-     - Right-click the item you want to delete
-       - Select **Delete**
-       - Click **Yes** at the pop-up
-       - If the selected item contains objects:
-         - Select **Use Delete Subtree server control** at the bottom
-         - Lastly, select **Yes**
