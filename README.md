@@ -59,7 +59,13 @@ https://github.com/user-attachments/assets/fe645e9a-30f4-4f61-be6c-f18b003c53f9
 1. Open **File Explorer**
 2. Enter the desired drive
 3. Create a folder and name it **Share**
-4. Create 3 folders inside **Share** and name them:
+   - right-click this folder and select properties
+   - in the sharing tab select the advance button
+   - select "share this folder" input
+   - click permissions and give full control to everyone
+   - lastly click apply and ok
+   
+5. Create 3 folders inside **Share** and name them:
    - **IT**
    - **Sales**
    - **Marketing**
