@@ -123,6 +123,10 @@ https://github.com/user-attachments/assets/e028102a-a0d7-4d50-94c6-7c6f92fe4a28
      - The **Marketing** folder to **sf-Marketing**
      - The **Sales** folder to **sf-Sales**
 
+
+https://github.com/user-attachments/assets/de32b031-8a63-45df-a73c-13a189e41114
+
+
 ## Mapping Drive
 1. Within **Server Manager**, select **Tools**
    - Select **Group Policy Management**
