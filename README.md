@@ -197,7 +197,7 @@ https://github.com/user-attachments/assets/21b2c89e-43df-4fc7-81ba-9eb7c681b150
 https://github.com/user-attachments/assets/d0a24c63-2d01-4384-bd8a-fd339f39f120
 
 
-## Deleting within Active Directory Users and Computers
+## Deleting folders within Active Directory Users and Computers
 1. Go to **View**
    - Select **Advanced Features**
      - Right-click the desired folder
