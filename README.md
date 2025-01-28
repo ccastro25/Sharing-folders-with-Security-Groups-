@@ -156,6 +156,10 @@ https://github.com/user-attachments/assets/de32b031-8a63-45df-a73c-13a189e41114
    - Drag the new GPO onto your domain
      - Click **OK** when prompted
 
+
+https://github.com/user-attachments/assets/ae8c3af2-54b0-465d-a093-e3a6bd30e4bc
+
+
 ## Testing Shared Folders
 1. Log on to the Windows VM
 
